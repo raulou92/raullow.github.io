@@ -12,3 +12,21 @@
     box-shadow: 0 3px 10px rgba(0,0,0,0.16);
 }
 
+.animate__animated.animate__fadeIn {
+    --animate-duration: 4s;
+  }
+p .animate__fadeIn {
+    --animate-duration: 3s;
+  }
+  h1.animate__fadeIn {
+    --animate-duration: 3s;
+  }
+  h2.animate__fadeIn {
+    --animate-duration: 3s;
+  }
+  p.animate__animated.animate__fadeIn {
+    --animate-duration: 3s;
+  }
+  a.animate__fadeIn {
+    --animate-duration: 3s;
+  }
